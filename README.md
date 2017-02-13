@@ -10,10 +10,6 @@ Git-core ppa will be added.
 ansible-galaxy install Furdarius.git
 ```
 
-## Variables
-
-All variables can be found in [defaults/main.yml](https://github.com/Furdarius/ansible-git/blob/master/defaults/main.yml)
-
 ## Playbook example
 
 ```yaml
